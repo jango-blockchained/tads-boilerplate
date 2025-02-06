@@ -1,8 +1,13 @@
 # T.A.D.S. boilerplate <!-- omit in toc -->
 
-[![Build Status](https://travis-ci.com/Thomvaill/tads-boilerplate.svg?branch=master)](https://travis-ci.com/Thomvaill/tads-boilerplate)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20started%20with%20Infrastructure%20as%20Code%20with%20T.A.D.S.%20https%3A%2F%2Fgithub.com%2FThomvaill%2Ftads-boilerplate%20-%20A%20boilerplate%20created%20by%20%40thomvaill%20which%20combines%20%23Terraform%20%23Ansible%20%23Vagrant%20and%20%23DockerSwarm.%20%23Docker%20%23DevOps%20%23IaC)
+
+<hr />
+
+Thanks for stopping by! Unfortunately, I can no longer maintain this project due to time constraints and the overall shift away from Docker Swarm in favor of Kubernetes.
+I’m keeping the repo archived because I still believe Docker Swarm offered a great DevOps experience: letting developers and Ops share the same tool seamlessly from development to production, something that’s a bit harder to replicate with Kubernetes. While there won’t be any further updates, please feel free to explore and fork as you like!
+
+<hr />
 
 <div align="center"><strong>The power of Ansible and Terraform + the simplicity of Swarm = DevOps on :fire::fire::fire:</strong></div>
 <br />
